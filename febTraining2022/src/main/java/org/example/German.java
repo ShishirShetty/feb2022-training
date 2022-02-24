@@ -1,8 +1,8 @@
 package org.example;
 
-public class French extends Language {
+public class German extends Language {
     @Override
     public void sayHello(String helloToWhom) {
-        System.out.println("Bonjour "+ helloToWhom);
+
     }
 }
